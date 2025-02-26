@@ -46,19 +46,19 @@ The heatmap of predicted SoH shows how our model maps the relationship between i
 
 First of all Nyquist plots are the way to visualize complex impedance, with the real part on the x-axis and the imaginary part on the y-axis. The semicircle patterns we see represent different electrochemical processes occurring in the battery, and their size and position change as the battery ages.
 
-We also simulated Nyquist plots to visualize how impedance changes with battery degradation. These plots clearly show the increase in Re and Rct as SoH levels decrease.
+We can see how impedance changes with battery degradation. These plots clearly show the increase in Re and Rct as SoH levels decrease.
 
 
 
 ## Future Aspects
 
-Looking ahead, we have a few plans for future:
+Looking ahead, we are planning for a:
 
-First is, hybrid models that combine time-domain data (current, voltage) with frequency-domain data (impedance), which could provide a more comprehensive degradation model.
+hybrid models that combine time-domain data (current, voltage) with frequency-domain data (impedance), which could provide a more comprehensive degradation model.
 
-Second is, incorporating temperature effects would be valuable. We could create adaptive models that adjust for different thermal environments and cycling conditions, leading to thermal management strategies based on real-time SoH and temperature data.
+After that, we have planned to incorporate temperature effects. We could create adaptive models that adjust for different thermal environments and cycling conditions, leading to thermal management strategies based on real-time SoH and temperature data.
 
-Third, exploring full impedance spectrum and battries other impedences analysis could extract more information from EIS data and help us better understand the correlation between specific frequency ranges and different degradation mechanisms.
+And lastly, exploring full impedance spectrum and battries other impedences analysis could extract more information from EIS data and help us better understand the correlation between specific frequency ranges and different degradation mechanisms.
 
 ## Potential Impact
 
