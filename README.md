@@ -1,6 +1,6 @@
 ## Data Collection Process
 
-For our research, we used data from three batteries labeled B0005, B0006, and B0007. We extracted impedance parameters (Re and Rct) over time, along with capacity value from discharge cycle that were used to derive the actual SoH values. This provided us with a comprehensive dataset to train and validate our model.
+For our model, we used data from three batteries labeled B0005, B0006, and B0007. We extracted impedance parameters (Re and Rct) over time, along with capacity value from discharge cycle that were used to derive the actual SoH values. This provided us with a comprehensive dataset to train and validate our model.
 
 ## Correlation Analysis
 
